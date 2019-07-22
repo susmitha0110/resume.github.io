@@ -1,0 +1,66 @@
+
+.intro{
+  background-image: url("./images/12.jpg") ;
+
+  background-size: cover;
+
+  color: whitesmoke;
+
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.viewheight{
+  height:100vh;
+}
+h4{
+  font-size: 35px;
+  font-family: serif;
+}
+p{
+  text-align: center; 
+
+}
+.bg-1 { 
+  background-color: white; /* Green */
+  color: #0c0a0a;
+}
+.bg-2 { 
+  background-color: #474e5d; /* Dark Blue */
+  color: #ffffff;
+}
+.bg-3 { 
+  background-color: whitesmoke; /* White */
+  color: #0c0a0a ;
+  
+}
+.bg-4 { 
+  background-color: #2f2f2f; /* Black Gray */
+  color: #fff;
+}
+p2{
+  font-weight: bold;
+  font-size: 25px;
+  font-style: italic;
+}
+p3{
+  font-size: 22px;
+  font-style: italic;
+}
+p4{
+  font-size: 20px;
+
+}
+* {box-sizing: border-box}
+
+.container {
+width: 90%;
+background-color: #ddd;
+}
+
+.container-fluid1 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
