@@ -64,3 +64,13 @@ background-color: #ddd;
   padding-top: 50px;
   padding-bottom: 50px;
 }
+#sus:hover
+{
+  background:#007BFF;
+  color:whitesmoke;
+  border-radius: 30px;
+}
+.nav-link.active
+{
+  background: #343A40;
+}
